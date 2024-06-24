@@ -1,0 +1,1 @@
+This is a project of Microprocessors course, which contains the parking sensor system. Which was built using pic16f877a, lcd 16x2, ultrasonic sensor HC-SR04, buzzer, LED, 20 MHz crystal, 2 x 22 pF capacitors and 10k Ohm potentiometer.
